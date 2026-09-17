@@ -1,6 +1,6 @@
 cask "sonynotch" do
-  version "1.0.0"
-  sha256 "d0715914393c2c7b07c10c08df53c46c98143f021689305cc9145b2354362e02"
+  version "1.1.0"
+  sha256 "46e1ca5c5edf50a61338cde32ddc2b34ed447a42afc79452cf0d3afa41a53299"
 
   url "https://github.com/flotttt/SonyNotch/releases/download/v#{version}/SonyNotch.zip"
   name "SonyNotch"
