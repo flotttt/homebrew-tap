@@ -1,8 +1,8 @@
 cask "sonynotch" do
-  version "1.4.0"
-  sha256 "9cc3e4dce7693217e8a6d2efa0b948bb531dfee150b9be40e5752052b8ab8785"
+  version "1.4.1"
+  sha256 "6814c32506a0c1295d38ab766d69b337f63c6d9afdf70314b330a2c984bd2098"
 
-  url "https://github.com/flotttt/SonyNotch/releases/download/v1.4.0/SonyNotch.zip"
+  url "https://github.com/flotttt/SonyNotch/releases/download/v1.4.1/SonyNotch.zip"
   name "SonyNotch"
   desc "Control Sony headphones from the menu bar and the notch"
   homepage "https://github.com/flotttt/SonyNotch"
